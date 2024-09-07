@@ -1,76 +1,56 @@
-# Saurabh_Mirajkar
-# Hi there! 👋 I'm          [     Saurabh Mirajkar      ]
+# 👋 Hi, I'm Mirajkar Saurabh Suresh
 
-![QA GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+**Quality Assurance Analyst** with **2 years** of experience in testing mobile apps, games, and web applications. Proficient in creating test cases, documenting defects, and collaborating with teams. Strong expertise in **performance testing**, **Selenium with Java**, and **API testing**. Always eager to learn new technologies and improve testing methods to deliver quality software.
 
-### 💼 Quality Analyst | 1.10 years of Experience
+![Software Quality Analyst](https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif) <!-- Add a relevant GIF URL here -->
 
-I am a Quality Analyst with expertise in both Manual and Automation Testing, passionate about delivering high-quality software through continuous testing and process improvement.
+## 🔧 Skills & Tools
 
----
+- **Manual Testing**
+- **Selenium (with Java)**
+- **API Testing (Postman)**
+- **Performance Testing (Apache Jmeter)**
+- **GitHub**
+- **SQL (MySQL Database)**
+- **Web/Mobile App Testing**
+- **Jenkins (CI/CD)**
+- **Jira**
+- **Game Testing**
+- **Bug Reporting**
+- **TestNG**
+- **AWS**
+- **DevOps**
 
-### 🛠 Skillset:
+## 🚀 Projects
 
-![Skills](https://img.shields.io/badge/-Manual_Testing-007ACC?style=for-the-badge&logo=appveyor)
-![Skills](https://img.shields.io/badge/-Automation_Testing-007ACC?style=for-the-badge&logo=appveyor)
-![Skills](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium)
-![Skills](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java)
-![Skills](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker)
-![Skills](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins)
-![Skills](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
-![Skills](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![Skills](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman)
+### 1. Whiskey Simulation Game (08/2023 - 03/2024)
+- Developed a simulation-based whiskey-making game focusing on player control of the entire process.
+- **Roles and Responsibilities**: Compatibility Testing, Play Testing, Regression Testing, Unit Testing, Combinatorial Testing, Bug Reporting, Functionality Testing, and Ad Hoc Testing.
 
-- *Manual Testing*: Strong in test case creation, execution, and defect tracking.
-- *Automation Testing*: Proficient in Selenium WebDriver, TestNG, and POM (Page Object Model) design patterns.
-- *Programming Language*: Java (for automation scripting).
-- *Performance Testing*: Experience with tools for performance and load testing.
-- *CI/CD and Tools*:
-  - *Jira*: Test case management and bug tracking.
-  - *Git & GitHub*: Version control and collaboration.
-  - *Docker*: Containerization for testing in isolated environments.
-  - *Jenkins*: Automating testing workflows through CI/CD pipelines.
-  - *Postman*: API testing and validation.
+### 2. Symbol Drive (01/2023 - 03/2024)
+- App to help users locate rides, scan, and start them using a radar module.
+- **Roles and Responsibilities**: Functionality Testing, Regression Testing, API Testing, UI/UX Testing, Sanity Testing, Automation Testing (Selenium with Java), Hybrid Framework, TestNG, BDD Cucumber, User Acceptance Testing, and Bug Reporting.
 
----
+## 🏢 Work Experience
 
-### 🚀 Featured Projects:
+- **Quality Analyst** at Idea Usher (09/2022 – 03/2024)
+- **Software Testing Intern** at Dimakh Consultants Pvt Limited (06/2022 – 08/2022)
 
-- *Rummy XL Project*  
-  Worked as a game tester, focusing on functionality, usability, and performance. Contributed to finding and resolving bugs while improving the overall gameplay experience.
+## 🎓 Education
 
-- *Automation Framework Development*  
-  Built and maintained an automation testing framework using Selenium WebDriver and POM, enabling automated test execution and improved test coverage.
+- **B.E. in Electrical Engineering** from JSPM’s BSIOTR, Pune (2021) – 65.72%
 
----
+## 🌐 Connect with Me
 
-### 📈 Approach to Testing:
+- **LinkedIn**: [Saurabh Mirajkar](https://www.linkedin.com/in/saurabh-mirajkar-52782a222)
+- **GitHub**: [Saurabh2864](https://github.com/Saurabh2864)
 
-1. *Understand the Scope*: Thoroughly reviewing project requirements to ensure all features are covered.
-2. *Design Test Cases*: Writing comprehensive test cases for manual and automation scenarios.
-3. *Automate Repetitive Tasks*: Leveraging Java and Selenium to write efficient scripts for regression tests.
-4. *Collaboration*: Working closely with development teams to address bugs and optimize the workflow.
-5. *Continuous Improvement*: Monitoring performance and improving test scripts as part of an agile process.
+## 📧 Contact
 
----
+- **Email**: s.mirajkar1999@gmail.com
+- **Mobile**: +91 8380870035
 
-### 🛠 Tools I Use:
-
-![Tools](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium)
-![Tools](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins)
-![Tools](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker)
-![Tools](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman)
+![Quality Assurance](https://media.giphy.com/media/l0Ex6CeY9nznfPZQY/giphy.gif) <!-- Add a relevant GIF URL here -->
 
 ---
-
-### 📫 Connect with me:
-
-- *GitHub*: [Your GitHub Profile Link]
-- *LinkedIn*: [Your LinkedIn Profile Link]
-- *Email*: [Your Email]
-
----
-
-Let's connect and collaborate on building robust software! 🎯
-
-![Thank You GIF](https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif)
+_Mirajkar Saurabh Suresh_
