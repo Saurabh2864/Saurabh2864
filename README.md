@@ -34,7 +34,7 @@
 ---
 
 ## 🌟 About Me
-I have 1.10 years of experience in the field of software testing, working with both manual and automation testing tools. My expertise spans across various technologies such as Selenium with Java, API testing, and more.
+I have 1.10 years of experience in software testing, working with manual and automation testing. My expertise spans various technologies such as Selenium with Java, API testing, Jenkins, Game Testing, and more.
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/saurabh-mirajkar-52782a222) or check out my work on [GitHub](https://github.com/Saurabh2864)!
 
