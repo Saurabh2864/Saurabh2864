@@ -3,36 +3,50 @@
 
 # 👋 Hi, I'm Mirajkar Saurabh Suresh
 
-**Quality Assurance Analyst** with **2 years** of experience in testing mobile apps, games, and web applications. Proficient in creating test cases, documenting defects, and collaborating with teams. Strong expertise in **performance testing**, **Selenium with Java**, and **API testing**. Always eager to learn new technologies and improve testing methods to deliver quality software.
+**Quality Assurance Analyst** with **1.10 years** of experience in testing mobile apps, games, and web applications. Proficient in creating test cases, documenting defects, and collaborating with teams. Strong expertise in **Manual & Automation Testing**, **Selenium with Java**, and **API testing**. Always eager to learn new technologies and improve testing methods to deliver quality software.
 
-![Software Quality Analyst](https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif) <!-- Add a relevant GIF URL here -->
+![Software Quality Analyst](https://i.pinimg.com/originals/17/07/13/170713ecea0449df54e43dcf926950bf.gif) <!-- Add a relevant GIF URL here -->
+
 
 ## 🔧 Skills & Tools
 
-- **Manual Testing**
-- **Selenium (with Java)**
-- **API Testing (Postman)**
-- **Performance Testing (Apache Jmeter)**
-- **GitHub**
-- **SQL (MySQL Database)**
-- **Web/Mobile App Testing**
-- **Jenkins (CI/CD)**
-- **Jira**
-- **Game Testing**
-- **Bug Reporting**
-- **TestNG**
-- **AWS**
-- **DevOps**
+            
 
-## 🚀 Projects
+ ![Manual Testing](https://img.shields.io/badge/-Manual_Testing-007ACC?style=for-the-badge&logo=appveyor) |
+ ![Automation Testing](https://img.shields.io/badge/-Automation_Testing-007ACC?style=for-the-badge&logo=appveyor) |
+ ![Selenium](https://img.icons8.com/color/48/000000/selenium-test-automation.png) |
+ ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman) |
+ ![Jmeter](https://img.icons8.com/color/48/000000/jmeter.png) |
+ ![Git](https://img.icons8.com/color/48/000000/git.png) |
+ ![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png) |
+ ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) |
+ ![App Testing](https://img.icons8.com/fluency/48/000000/mobile-testing.png) |
+ ![Jenkins](https://img.icons8.com/color/48/000000/jenkins.png) |
+ ![Jira](https://img.icons8.com/color/48/000000/jira.png) |
+ ![Game Testing](https://img.icons8.com/color/48/000000/video-game.png) |
+![Bug Reporting](https://img.icons8.com/color/48/000000/bug.png) |
+ ![TestNG](https://img.icons8.com/color/48/000000/test-passed.png) |
+ ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) |
+ ![Docker](https://img.icons8.com/color/48/000000/docker.png) |
+ ![BDD](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-cucumber-is-a-tool-based-on-behavior-driven-development-bdd-framework-logo-color-tal-revivo.png) |
+ ![POM](https://img.icons8.com/color/48/000000/data-in-both-directions.png) |
 
-### 1. Whiskey Simulation Game (08/2023 - 03/2024)
-- Developed a simulation-based whiskey-making game focusing on player control of the entire process.
-- **Roles and Responsibilities**: Compatibility Testing, Play Testing, Regression Testing, Unit Testing, Combinatorial Testing, Bug Reporting, Functionality Testing, and Ad Hoc Testing.
+---
 
-### 2. Symbol Drive (01/2023 - 03/2024)
-- App to help users locate rides, scan, and start them using a radar module.
-- **Roles and Responsibilities**: Functionality Testing, Regression Testing, API Testing, UI/UX Testing, Sanity Testing, Automation Testing (Selenium with Java), Hybrid Framework, TestNG, BDD Cucumber, User Acceptance Testing, and Bug Reporting.
+## 🌟 About Me
+I have 1.10 years of experience in the field of software testing, working with both manual and automation testing tools. My expertise spans across various technologies such as Selenium with Java, API testing, and more.
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/saurabh-mirajkar-52782a222) or check out my work on [GitHub](https://github.com/Saurabh2864)!
+
+---
+
+## 📊 GitHub Stats
+
+![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saurabh2864&show_icons=true&theme=radical)
+
+
+
+
 
 ## 🏢 Work Experience
 
@@ -53,7 +67,7 @@
 - **Email**: s.mirajkar1999@gmail.com
 - **Mobile**: +91 8380870035
 
-![Quality Assurance](https://media.giphy.com/media/l0Ex6CeY9nznfPZQY/giphy.gif) <!-- Add a relevant GIF URL here -->
+![Let's Connect ](https://media3.giphy.com/media/khr2lS27v92PQPD3oa/giphy.gif) <!-- Add a relevant GIF URL here -->
 
 ---
 _Mirajkar Saurabh Suresh_
