@@ -1,3 +1,6 @@
+!Funny Cat(https://github.com/Saurabh2864/Saurabh2864/blob/main/gif.gif)
+
+
 # 👋 Hi, I'm Mirajkar Saurabh Suresh
 
 **Quality Assurance Analyst** with **2 years** of experience in testing mobile apps, games, and web applications. Proficient in creating test cases, documenting defects, and collaborating with teams. Strong expertise in **performance testing**, **Selenium with Java**, and **API testing**. Always eager to learn new technologies and improve testing methods to deliver quality software.
