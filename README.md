@@ -1,5 +1,5 @@
 # Saurabh_Mirajkar
-# Hi there! 👋 I'm          [     Saurabh Mirajkar         ]
+# Hi there! 👋 I'm          [     Saurabh Mirajkar      ]
 
 ![QA GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
