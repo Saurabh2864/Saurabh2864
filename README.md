@@ -1,4 +1,4 @@
-!Funny Cat(https://github.com/Saurabh2864/Saurabh2864/blob/main/gif.gif)
+![](https://github.com/Saurabh2864/Saurabh2864/blob/main/gif.gif)
 
 
 # 👋 Hi, I'm Mirajkar Saurabh Suresh
