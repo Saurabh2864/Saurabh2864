@@ -36,7 +36,7 @@
 
 
 ## 🌟 About Me
-I have 1.10 years of experience in software testing, working with manual and automation testing. My expertise spans various technologies such as Selenium with Java, API testing, Jenkins, Game Testing, and more.
+I have 2 years of experience in software testing, working with manual and automation testing. My expertise spans various technologies such as Selenium with Java, API testing, Jenkins, Game Testing, and more.
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/saurabh-mirajkar-52782a222) or check out my work on [GitHub](https://github.com/Saurabh2864)!
 
@@ -51,7 +51,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/saurabh-m
 
 
 ## 🏢 Work Experience
-
+-** Game Tester-QA** Highbrow technology Inc (10/2024 - ongoing)
 - **Quality Analyst** at Idea Usher (09/2022 – 03/2024)
 - **Software Testing Intern** at Dimakh Consultants Pvt Limited (06/2022 – 08/2022)
 
