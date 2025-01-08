@@ -3,7 +3,7 @@
 
 
 
-**Quality Assurance Analyst** with **1.10 years** of experience in testing mobile apps, games, and web applications. Proficient in creating test cases, documenting defects, and collaborating with teams. Strong expertise in **Manual & Automation Testing**, **Selenium with Java**, and **API testing**. Always eager to learn new technologies and improve testing methods to deliver quality software.
+**Quality Assurance Analyst** with ** 2 years** of experience in testing mobile apps, games, and web applications. Proficient in creating test cases, documenting defects, and collaborating with teams. Strong expertise in **Manual & Automation Testing**, **Selenium with Java**, and **API testing**. Always eager to learn new technologies and improve testing methods to deliver quality software.
 
 ![Software Quality Analyst](https://i.pinimg.com/originals/17/07/13/170713ecea0449df54e43dcf926950bf.gif) <!-- Add a relevant GIF URL here -->
 
