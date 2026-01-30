@@ -3,7 +3,7 @@
 
 
 
-**Quality Assurance Analyst** with ** 2.11 years** of experience in testing mobile apps, games, and web applications. Proficient in creating test cases, documenting defects, and collaborating with teams. Strong expertise in **Manual & Automation Testing**, **Selenium with Java**, and **API testing**. Always eager to learn new technologies and improve testing methods to deliver quality software.
+**Quality Assurance Analyst** with ** 3 years** of experience in testing mobile apps, games, and web applications. Proficient in creating test cases, documenting defects, and collaborating with teams. Strong expertise in **Manual & Automation Testing**, **Selenium with Java**, and **API testing**. Always eager to learn new technologies and improve testing methods to deliver quality software.
 
 ![Software Quality Analyst](https://i.pinimg.com/originals/17/07/13/170713ecea0449df54e43dcf926950bf.gif) <!-- Add a relevant GIF URL here -->
 
@@ -36,7 +36,7 @@
 
 
 ## 🌟 About Me
-I have 2.11 years of experience in software testing, working with manual and automation testing. My expertise spans various technologies such as Selenium with Java, API testing, Jenkins, Game Testing, and more.
+I have 3 years of experience in software testing, working with manual and automation testing. My expertise spans various technologies such as Selenium with Java, API testing, Jenkins, Game Testing, and more.
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/saurabh-mirajkar-52782a222) or check out my work on [GitHub](https://github.com/Saurabh2864)!
 
