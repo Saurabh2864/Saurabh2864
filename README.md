@@ -11,6 +11,11 @@
 
 QA Engineer with **3+ years** testing web, mobile, game and enterprise products, from a ride-booking app to an accredited laboratory system. At **Deepak Cybit** (Vadodara) I design Playwright + Python frameworks with CI/CD and act as the client's point of contact on an HSE compliance portal. Preparing for **CAPM** and growing toward AI project management.
 
+<p align="center">
+  <a href="https://saurabh2864.github.io/#intro"><img src="intro-thumb.png" width="380" alt="Watch Saurabh Mirajkar's 75-second intro video"></a><br>
+  <sub>▶ <a href="https://saurabh2864.github.io/#intro">Watch my 75-second intro</a> · who I am, how I test, and the automation I build</sub>
+</p>
+
 ### 🔎 [View my full portfolio →](https://saurabh2864.github.io)
 
 ---
